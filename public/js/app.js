@@ -1,5 +1,5 @@
 //const fetch = require('node-fetch')
-console.log('client side js is loaded')
+
 
 
 const weatherForm = document.querySelector('form')
